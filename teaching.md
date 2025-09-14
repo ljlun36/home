@@ -1,11 +1,13 @@
 ## Teaching
 
-# Dynamical systme (Automn 25-26)
+#2025-2026 秋
 
-HGX509, Every Monday from 13h30-16h10
+动力系统
+时间: 每周衣 13：30-16：10
+地点: HGX509
 
-Lecture notes:
+课程讲义:
 [Lecture note1](./lec1.pdf)
 
-Exercise sheets:
+练习题:
 [Exercise sheet1](./hw1.pdf)
