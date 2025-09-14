@@ -8,4 +8,4 @@ Lecture notes:
 [Lecture note1](./lec1.pdf)
 
 Exercise sheets:
-[Exercise sheet1](./exe1.pdf)
+[Exercise sheet1](./hw1.pdf)
