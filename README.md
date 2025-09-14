@@ -1,5 +1,3 @@
-# jialunli.github.io
-
 # Hi there, I‘m Jialun Li (李嘉伦)!
 
 ### Navigation
