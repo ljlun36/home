@@ -4,7 +4,7 @@
 
 ### Navigation
 - [Home](/)
-- [Teaching](./teaching) <!-- 链接到 about.md 文件 -->
+- [Teaching](./teaching.md) <!-- 链接到 about.md 文件 -->
 
 🎯 I‘m a research on Mathematics.
 💡 I’m interested in Dynamical sytsems and Lie groups.
