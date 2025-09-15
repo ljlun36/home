@@ -8,7 +8,13 @@
 
 地点: HGX509
 
-课程讲义:
+参考教材：
+
+Benoist-Paulin, Systèmes dynamiques élémentaires
+
+P. Walters, An Introduction to Ergodic Theory
+
+课程讲义: 
 
 [Lecture note1](./lec1.pdf)
 
