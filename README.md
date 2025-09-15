@@ -8,4 +8,4 @@
 
 💡 I’m interested in Dynamical systems and Lie groups.
 
-✉️ How to reach me: jialunliwork@yeah.net.
+✉️ How to reach me:jialunliwork@yeah.net.
