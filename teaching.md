@@ -20,7 +20,7 @@ P. Walters, An Introduction to Ergodic Theory
 
 [Lecture note2](./lec2.pdf)
 
-[Lecture note3](./lec3.pdf)
+[Lecture note3-4](./lec3-4.pdf)
 
 
 练习题:
