@@ -29,3 +29,4 @@ P. Walters, An Introduction to Ergodic Theory
 
 [Exercise sheet2](./exe2.pdf)
 
+[Exercise sheet3](./exe3.pdf)
