@@ -16,7 +16,7 @@ P. Walters, An Introduction to Ergodic Theory
 
 课程讲义: 
 
-[Lecture note1](./lec1.pdf)
+[Lecture note1](.assets/lec1.pdf)
 
 [Lecture note2](./lec2.pdf)
 
