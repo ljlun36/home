@@ -34,7 +34,7 @@
 
 -\*\*\[10] Equidistribution and counting of periodic tori in the space of Weyl chambers, with Nguyen-Thi Dang 🔗 [[arXiv]](https://arxiv.org/abs/2305.17070), accepted by Commentarii Mathematici Helvetici,  
 
-See \[arXiv:2202.08323](https://arxiv.org/abs/2202.08323) for an older version containing the case of SL(n,Z).
+See [arXiv:2202.08323](https://arxiv.org/abs/2202.08323) for an older version containing the case of SL(n,Z).
 
 
 
