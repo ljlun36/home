@@ -1,5 +1,7 @@
 # Hi there, I‘m Jialun Li (李嘉伦)!
 
+<img src="./assets/my-image.jpg" alt="图片描述" width="200" height="150">
+
 ### Navigation
 - [Teaching](./teaching.md) <!-- 链接到 about.md 文件 -->
 - [Seminar](https://dlidynamics.github.io/fudandynamics/seminars/)
