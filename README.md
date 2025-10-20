@@ -1,7 +1,7 @@
 # Hi there, I‘m Jialun Li (李嘉伦)!
 
 <div align="right">
-  <img src="./assets/my-image.jpg" alt="图片描述" width="300" height="auto">
+  <img src="./assets/my-image.jpg" alt="图片描述" width="100" height="auto">
 </div>
 
 ### Navigation
