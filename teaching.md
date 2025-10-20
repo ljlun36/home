@@ -18,22 +18,22 @@ P. Walters, An Introduction to Ergodic Theory
 
 [Lecture note1](./assets/dynamical25/lec1.pdf)
 
-[Lecture note2](./lec2.pdf)
+[Lecture note2](./assets/dynamical25/lec2.pdf)
 
-[Lecture note3-4](./lec3-4.pdf)
+[Lecture note3-4](./assets/dynamical25/lec3-4.pdf)
 
-[Lecture note5](./lec5.pdf)
+[Lecture note5](./assets/dynamical25/lec5.pdf)
 
-[Lecture note6](./lec6.pdf)
+[Lecture note6](./assets/dynamical25/lec6.pdf)
 
 
 练习题:
 
-[Exercise sheet1](./exe1.pdf)
+[Exercise sheet1](./assets/dynamical25/exe1.pdf)
 
-[Exercise sheet2](./exe2.pdf)
+[Exercise sheet2](./assets/dynamical25/exe2.pdf)
 
-[Exercise sheet3](./exe3.pdf)
+[Exercise sheet3](./assets/dynamical25/exe3.pdf)
 
-[Exercise sheet4](./exe4.pdf)
+[Exercise sheet4](./assets/dynamical25/exe4.pdf)
 
