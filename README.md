@@ -5,6 +5,7 @@
 </div>
 
 ### Navigation
+- [Research](./research.md) <!-- 链接到 about.md 文件 -->
 - [Teaching](./teaching.md) <!-- 链接到 about.md 文件 -->
 - [Seminar](https://dlidynamics.github.io/fudandynamics/seminars/)
 
