@@ -34,6 +34,7 @@
 
 -\[10] Equidistribution and counting of periodic tori in the space of Weyl chambers, with Nguyen-Thi Dang 🔗 [[arXiv]](https://arxiv.org/abs/2305.17070), accepted by Commentarii Mathematici Helvetici,  
 
+
 See [arXiv:2202.08323](https://arxiv.org/abs/2202.08323) for an older version containing the case of SL(n,Z).
 
 
@@ -52,6 +53,7 @@ See [arXiv:2202.08323](https://arxiv.org/abs/2202.08323) for an older version co
 
 -\[6] Trigonometric Series and Self-similar Sets, with Tuomas Sahlsten 🔗 [[arXiv]](https://arxiv.org/abs/1902.00426 ), J. Eur. Math. Soc. 24 (2022), no. 1, pp. 341–368
 
+
 \[1], \[6] and \[7] use a similar idea, renewal theorem implies decay of Fourier transform of measures on fractal sets.  \[6] is the simplest non trivial case and is the easiest to read.
 
 
@@ -61,6 +63,7 @@ See [arXiv:2202.08323](https://arxiv.org/abs/2202.08323) for an older version co
 
 
 -\[4] Fourier decay, Renewal theorem and Spectral gaps for random walks on split semisimple Lie groups 🔗 [[arXiv]](https://arxiv.org/abs/1811.06484), Annales Scientifiques de l'ÉNS, Tome 55, Fasc.6, pp 1613-1686, 2022
+
 
 \[4] and \[5] generalize the idea of Bourgain-Dyatlov, non-concentration and discretized sum-product estimates imply decay of Fourier transform of Furstenberg measures. A [draft  on SL\_2(R)](./assets/sl2r1108.pdf) maybe helpful to understand the method. See also a post of Carlos Matheus for my talk on this topic.
 
