@@ -12,6 +12,8 @@
 
 Benoist-Paulin, Systèmes dynamiques élémentaires
 
+M. Mirzakhani, Introduction to Ergodic Theory
+
 P. Walters, An Introduction to Ergodic Theory
 
 课程讲义: 
