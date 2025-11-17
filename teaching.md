@@ -47,3 +47,6 @@ P. Walters, An Introduction to Ergodic Theory
 
 [Exercise sheet5](./assets/dynamical25/exe5.pdf)
 
+[Exercise sheet6](./assets/dynamical25/exe6.pdf)
+
+
