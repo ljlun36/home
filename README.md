@@ -13,4 +13,4 @@
 
 💡 I’m interested in Dynamical systems and Lie groups.
 
-✉️ How to reach me: jialun_li AT fudan.edu.cn
+✉️ How to reach me: jialunli AT fudan.edu.cn
