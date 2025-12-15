@@ -36,6 +36,10 @@ P. Walters, An Introduction to Ergodic Theory
 
 [Lecture note12](./assets/dynamical25/lec12.pdf)
 
+[Lecture note13](./assets/dynamical25/lec13.pdf)
+
+[Lecture note14](./assets/dynamical25/lec14.pdf)
+
 
 
 练习题:
