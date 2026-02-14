@@ -22,7 +22,7 @@
 
 -\[13] On the dimension of limit sets on RP^2 via stationary measures I: the theory and Applications 🔗 [[arXiv]](https://arxiv.org/abs/2311.10265), with Wenyu Pan, Disheng Xu, arXiv:2311.10265
 
-[Lecture notes](./assets/lec-dimension.pdf) for a minicourse in Trieste, Beyond Uniform Hyperbolicity 2025.
+[Lecture notes](./assets/lec-dimension.pdf) for a minicourse in Trieste, Beyond Uniform Hyperbolicity 2025, explaining [13,14].
 
 
 -\[12] Exponential mixing of frame flows for geometrically finite hyperbolic manifolds  🔗 [[arXiv]](https://arxiv.org/abs/2302.03798), with Pratyush Sarkar, Wenyu Pan, arXiv:2302.03798, accepted by  J. Eur. Math. Soc.
