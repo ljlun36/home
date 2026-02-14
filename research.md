@@ -21,7 +21,7 @@
 
 
 -\[13] On the dimension of limit sets on RP^2 via stationary measures I: the theory and Applications 🔗 [[arXiv]](https://arxiv.org/abs/2311.10265), with Wenyu Pan, Disheng Xu, arXiv:2311.10265
-
+Lecture notes for a minicourse in Trieste, Beyond Uniform Hyperbolicity 2025.
 
 
 -\[12] Exponential mixing of frame flows for geometrically finite hyperbolic manifolds  🔗 [[arXiv]](https://arxiv.org/abs/2302.03798), with Pratyush Sarkar, Wenyu Pan, arXiv:2302.03798, accepted by  J. Eur. Math. Soc.
@@ -40,6 +40,7 @@ See [arXiv:2202.08323](https://arxiv.org/abs/2202.08323) for an older version co
 
 
 -\[9] Exponential mixing of geodesic flows for geometrically finite hyperbolic manifolds with cusps 🔗 [[arXiv]](https://arxiv.org/abs/2009.12886), with Wenyu Pan,  Invent. math. 231, 931–1021 (2023).
+Lecture notes for a working seminar in SLmath, explaining the construction of coding.
 
 
 
