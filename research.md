@@ -42,7 +42,7 @@ See [arXiv:2202.08323](https://arxiv.org/abs/2202.08323) for an older version co
 
 -\[9] Exponential mixing of geodesic flows for geometrically finite hyperbolic manifolds with cusps 🔗 [[arXiv]](https://arxiv.org/abs/2009.12886), with Wenyu Pan,  Invent. math. 231, 931–1021 (2023).
 
-[Lecture notes](./assets/lec-coding1.pdf) for a working seminar in SLmath 2026, explaining the construction of coding.
+[Lecture notes](./assets/lec-cdoing1.pdf) for a working seminar in SLmath 2026, explaining the construction of coding.
 
 
 
