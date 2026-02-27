@@ -22,7 +22,7 @@
 
 -\[13] On the dimension of limit sets on RP^2 via stationary measures I: the theory and Applications 🔗 [[arXiv]](https://arxiv.org/abs/2311.10265), with Wenyu Pan, Disheng Xu, arXiv:2311.10265
 
-[Lecture notes](./assets/lec-dimension.pdf) for [[a minicourse]](https://sites.google.com/view/beyonduniformhyperbolicity2025/minicourses) in Trieste, Beyond Uniform Hyperbolicity 2025, explaining [13,14].
+[Lecture notes](./assets/lec-dimension.pdf) for a minicourse ([videos](https://sites.google.com/view/beyonduniformhyperbolicity2025/minicourses)) in Trieste, Beyond Uniform Hyperbolicity 2025, explaining [13,14].
 
 
 -\[12] Exponential mixing of frame flows for geometrically finite hyperbolic manifolds  🔗 [[arXiv]](https://arxiv.org/abs/2302.03798), with Pratyush Sarkar, Wenyu Pan, arXiv:2302.03798, accepted by  J. Eur. Math. Soc.
@@ -68,7 +68,7 @@ See [arXiv:2202.08323](https://arxiv.org/abs/2202.08323) for an older version co
 -\[4] Fourier decay, Renewal theorem and Spectral gaps for random walks on split semisimple Lie groups 🔗 [[arXiv]](https://arxiv.org/abs/1811.06484), Annales Scientifiques de l'ÉNS, Tome 55, Fasc.6, pp 1613-1686, 2022
 
 
-\[4] and \[5] generalize the idea of Bourgain-Dyatlov, non-concentration and discretized sum-product estimates imply decay of Fourier transform of Furstenberg measures. A [draft  on SL\_2(R)](./assets/sl2r1108.pdf) maybe helpful to understand the method. See also [[a post]](https://matheuscmss.wordpress.com/2020/02/03/decrease-of-fourier-coefficients-of-stationary-measures-on-the-circle-after-jialun-li/) of Carlos Matheus for my talk on this topic.
+\[4] and \[5] generalize the idea of Bourgain-Dyatlov, non-concentration and discretized sum-product estimates imply decay of Fourier transform of Furstenberg measures. A [draft  on SL\_2(R)](./assets/sl2r1108.pdf) maybe helpful to understand the method. See also [a post](https://matheuscmss.wordpress.com/2020/02/03/decrease-of-fourier-coefficients-of-stationary-measures-on-the-circle-after-jialun-li/) of Carlos Matheus for my talk on this topic.
 
 
 
