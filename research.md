@@ -8,6 +8,10 @@
 
 
 
+-\[17] Dimensions of surface repellers and attractors of non-linear planar IFSs 🔗 [[arXiv]](https://arxiv.org/abs/2608.30744) , with Wenyu Pan, Yao Tong, Disheng Xu, arXiv:2608.30744
+
+
+
 -\[16] Density of shapes of periodic tori in the cubic case 🔗 [[arXiv]](https://arxiv.org/abs/2502.12754) , with Thi Dang, Nihar Gargava, arXiv:2502.12754
 
 
