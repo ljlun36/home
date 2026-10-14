@@ -6,6 +6,8 @@
 
 ## Publications and preprints
 
+-\[18] Dimension of affine iterated function systems on on Rd 🔗 [[arXiv]](https://arxiv.org/abs/2610.15485) , with Wenyu Pan and Zhiyuan Zhang, arXiv:2610.15485
+
 
 
 -\[17] Dimensions of surface repellers and attractors of non-linear planar IFSs 🔗 [[arXiv]](https://arxiv.org/abs/2608.30744) , with Wenyu Pan, Yao Tong, Disheng Xu, arXiv:2608.30744
